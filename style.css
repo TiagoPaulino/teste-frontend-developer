@@ -62,7 +62,7 @@ section {
 /* Header */
 .header{
     padding-bottom: 50px;
-    background-image: url(/assets/img/hd-wallpaper-g689f8f371_1920.jpg);
+    background-image: url(assets/img/hd-wallpaper-g689f8f371_1920.jpg);
     background-size: cover;
 
 }
@@ -138,7 +138,7 @@ section {
     height: 450px;
     border-radius: 30px;
     overflow: hidden;
-    background-image: url(/assets/img/mkway.jpg);
+    background-image: url(assets/img/mkway.jpg);
     box-shadow: 0 0 20px 10px rgba(0, 0, 0, 0.1);
 }
 .section_image--grande img{
@@ -155,7 +155,7 @@ section {
     margin-bottom: 20px;
 }
 .servicos{
-    background-image: url(/assets/img/terra.jpg);
+    background-image: url(assets/img/terra.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
