@@ -10,8 +10,7 @@
 
 # Sobre o Projeto - Teste para estágio Frontend 
 
-Esse projeto foi desenvolvido para cumprir os requisitos do teste pratico para a vaga de **Estagio Front-end** da empresa **Ellos Design**.
-Como o foco é a vaga de para o estagio não foi incrementado PHP e Banco de dados.
+Esse projeto foi desenvolvido para cumprir os requisitos do teste prático para a vaga de **Estágio Front-end** da empresa **Ellos Design**. Como o foco é a vaga de para o estágio, não foi incrementado PHP e Banco de dados.
 
 ## Sobre a Ellos Design
 
@@ -23,14 +22,13 @@ A **Ellos Design** é uma agência de marketing e criação de sites localizada 
 
 ## Tecnologias utilizadas para este desafio
 
-Você deve utilizar as seguintes tecnologias para o desenvolvimento do teste:
-
 - HTML5
 - CSS
 - JavaScript (vanilla-tilt.js)
 
 ### Detalhe adicional
-Embora tenha demorado para escolher um tema para o projeto decidi efetuar algo mais **comico**, seguindo uma linha de entrevista para vendedores a ideia de *vender um terreno na lua*, acredito que ficou convincente.
+
+Embora tenha demorado para escolher um tema para o projeto, decidi efetuar algo mais **cômico**, seguindo uma linha de entrevista para vendedores a ideia de *vender um terreno na lua*, acredito que ficou convincente.
 
 ## O que Mostro nesse projeto
 
@@ -44,22 +42,21 @@ Embora tenha demorado para escolher um tema para o projeto decidi efetuar algo m
 
 ## Aviso
 
-Devido a qualidade de algumas imagens e efeitos aplicados a **performace** em alguns aparelhos pode ser prejudicada. 
+Devido a qualidade de algumas imagens e efeitos aplicados a **performance** em alguns aparelhos pode ser prejudicada.
+Recomendado o uso do Navegador Google Chrome.
 
 ## Como executar o projeto? 
-Ao efetuar o download basta abrir o arquivo index.html no navegador de sua preferencia.
-Porém para uma experiencia mais completa, recomendo acessar a pagina no github-pages. 
+
+Ao efetuar o download basta abrir o arquivo index.html no navegador de sua preferência. 
+
+Porém, para uma experiência mais completa, recomendo acessar a página no github-pages.
+
 **Clicando Aqui:** [SpaceTerrain](https://tiagopaulino.github.io/teste-frontend-developer/)
 
 ## Finalização do Teste/Projeto
 
-A elaboração do projeto demorou aproximadamente 3 dias com 16 horas de trabalho. A parte mais dificil do projeto foi a elaboração do tema e desing. Ainda estou desenvolvendo minhas habildiades de Copy. 
-Foi um projeto divertido de trabalhar, onde estou bastante satisfeito com os efeitos e a ideia elaborada. 
+A elaboração do projeto demorou aproximadamente 3 dias com 16 horas de trabalho. A parte mais difícil do projeto foi a elaboração do tema e design. Ainda estou desenvolvendo minhas habilidades de Copy. Foi um projeto divertido de trabalhar, onde estou bastante satisfeito com os efeitos e a ideia elaborada.
 
 
-
-
-- Faça um [fork](https://github.com/Ellos-Design/teste-frontend-developer/fork) desse projeto em sua conta do GitHub
-- Realize o desafio proposto
-- Faça um push para seu repositório com o desafio implementado
-- Envie um email para (vagas@ellosdesign.com.br) com a URL do seu projeto avisando que você concluiu o teste
+## Desafio Original:
+[fork](https://github.com/Ellos-Design/teste-frontend-developer/fork) 
