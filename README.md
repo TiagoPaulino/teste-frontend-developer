@@ -1,11 +1,11 @@
 # SpaceTerrains
 
-    <p align="center">
+<p align="center">
         <img src="assets/to_readme/Desktop_img.gif">
-    </p>
-    <p align="center">
+</p>
+<p align="center">
         <img src="assets/to_readme/Mobile_tilt.gif">
-    </p>
+</p>
     
 
 # Sobre o Projeto - Teste para estágio Frontend 
