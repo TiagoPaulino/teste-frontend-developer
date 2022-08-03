@@ -4,7 +4,7 @@
         <img src="assets/to_readme/Desktop_img.gif">
 </p>
 <p align="center">
-        <img src="assets/to_readme/Mobile_tilt.gif">
+        <img height="300px" src="assets/to_readme/Mobile_tilt.gif">
 </p>
     
 
